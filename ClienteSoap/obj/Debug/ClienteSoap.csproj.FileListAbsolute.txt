@@ -1,0 +1,30 @@
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.csprojAssemblyReference.cache
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.Properties.Resources.resources
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.Form1.resources
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.csproj.GenerateResource.cache
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.csproj.CoreCompileInputs.cache
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\bin\Debug\ClienteSoap.exe.config
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\bin\Debug\ClienteSoap.exe
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\bin\Debug\ClienteSoap.pdb
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.exe
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.pdb
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.vista.AgregarFootballer.resources
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.vista.BuscarFootballer.resources
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.vista.EditarFootballer.resources
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.vista.EliminarFootballer.resources
+C:\Users\Marty\Desktop\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.vista.Listar__Footballer.resources
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.Properties.Resources.resources
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.vista.AgregarFootballer.resources
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.vista.BuscarFootballer.resources
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.vista.EditarFootballer.resources
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.vista.EliminarFootballer.resources
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.vista.Listar__Footballer.resources
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.Form1.resources
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.csproj.GenerateResource.cache
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.exe
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\obj\Debug\ClienteSoap.pdb
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\bin\Debug\ClienteSoap.exe.config
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\bin\Debug\ClienteSoap.exe
+C:\Users\Juan Pablo\Downloads\SOAP\SOAP\ClienteSoap\ClienteSoap\ClienteSoap\ClienteSoap\bin\Debug\ClienteSoap.pdb
